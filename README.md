@@ -4,7 +4,7 @@
 
 This project is an **Excel-based Sales Performance Dashboard** built from a 500-record sales dataset. It combines structured sales data, PivotTables, and interactive dashboard charts to analyze revenue performance across time, regions, customer segments, managers, categories, and products.
 
-The workbook is provided as `Data.xlsm` and contains three main worksheets:
+The workbook is provided as `Sales_Target_performance.xlsm` and contains three main worksheets:
 
 - **Dashboard** — visual summary of sales performance and business KPIs.
 - **Data** — source sales dataset containing 500 orders and 18 fields.
@@ -59,7 +59,7 @@ Main fields include:
 
 ## How to Use
 
-1. Open `Data.xlsm` in Microsoft Excel.
+1. Open `Sales_Target_performance.xlsm` in Microsoft Excel.
 2. Go to the **Dashboard** sheet for the visual summary.
 3. Use the available filters/slicers to explore the dashboard.
 4. Open the **Pivot** sheet to inspect the underlying aggregations.
@@ -70,13 +70,13 @@ Main fields include:
 
 ## Project Structure
 
-```text
+
 Sales-Performance-Dashboard/
 │
-├── Data.xlsm
+├── Sales_Target_performance.xlsm
 ├── README.md
-└── DOCUMENTATION.md
-```
+└── Screenshot 2026-08-17 040919.png
+
 
 ## Purpose
 
